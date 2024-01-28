@@ -1,0 +1,41 @@
+text_id	text	task_1	task_2	task_3
+test_1	Delighted to be part of a volunteer project that aims to make a difference in the lives of underprivileged children. 🤗🌟	NOT	NONE	NONE
+test_2	Expressing gratitude for the supportive friends who always have my back. True friendship is a treasure. 👫💖	NOT	NONE	NONE
+test_3	Outraged by the discriminatory remarks made by a public figure. It's crucial to stand up against bigotry and promote inclusivity. 😠🤝	HOF	HATE	TIN
+test_4	Just had the most amazing meal at a new restaurant downtown! 😋🍲	NOT	NONE	NONE
+test_5	Can't believe how much I love the new song by my favorite artist! 🎶💕	NOT	NONE	NONE
+test_6	Spent the day at the beach with friends and had a blast in the sun and waves! ☀️🏖️	NOT	NONE	NONE
+test_7	Political debates are getting intense lately. It's crucial to stay informed and engage in meaningful conversations. 🗳️👥	NOT	NONE	NONE
+test_8	Disappointed with the service at the restaurant last night. The staff was rude and the food was subpar. 😒🍽️	HOF	HATE	TIN
+test_9	Just finished reading an amazing book that left me speechless. Highly recommend it! 📖👍	NOT	NONE	NONE
+test_10	Attended a thought-provoking lecture on climate change. It's essential to address environmental issues for a sustainable future. 🌍🌱	NOT	NONE	NONE
+test_11	Excited to watch the new movie that everyone is talking about this weekend! 🎬🍿	NOT	NONE	NONE
+test_12	Unbelievable! Witnessed a breathtaking sunset while hiking in the mountains. Nature's beauty is truly mesmerizing. 🌄❤️	NOT	NONE	NONE
+test_13	Disgusted by the offensive comments made during the debate. We need more respectful and constructive discussions in politics. 😡👎	HOF	OFFN	TIN
+test_14	Happy to see the community coming together for a charity event. Let's continue supporting each other and making a positive impact! 🤝❤️	NOT	NONE	NONE
+test_15	The recent news about the environment is concerning. We must take action to protect our planet and future generations. 🌎🚫	NOT	NONE	NONE
+test_16	Delighted to be part of a volunteer project that aims to make a difference in the lives of underprivileged children. 🤗🌟	NOT	NONE	NONE
+test_17	Expressing gratitude for the supportive friends who always have my back. True friendship is a treasure. 👫💖	NOT	NONE	NONE
+test_18	Outraged by the discriminatory remarks made by a public figure. It's crucial to stand up against bigotry and promote inclusivity. 😠🤝	HOF	HATE	TIN
+test_19	Enjoyed a relaxing spa day to unwind and recharge. Self-care is essential for mental well-being. 💆‍♀️💖	NOT	NONE	NONE
+test_20	Attending a live concert tonight! Can't wait to experience the energy and music of my favorite band. 🎤🎸	NOT	NONE	NONE
+test_21	Feeling motivated after a productive day at work. Hard work and dedication always pay off in the long run. 💼🚀	NOT	NONE	NONE
+test_22	Saddened by the news of a natural disaster affecting a community. Sending thoughts and prayers for everyone's safety and recovery. 🙏🌍	NOT	NONE	NONE
+test_23	Impressed by the innovative solutions presented at the tech conference. Exciting advancements in technology! 🚀💻	NOT	NONE	NONE
+test_24	Disheartened to witness acts of violence and hatred. We must strive for a world filled with love, tolerance, and understanding. 💔🌐	HOF	HATE	TIN
+test_25	Grateful for the opportunity to learn and grow each day. Embracing challenges as they come and becoming a better version of myself. 🌱📚	NOT	NONE	NONE
+test_26	Frustrated with the constant traffic delays. Traffic management improvements are urgently needed for a smoother commute. 🚗🚦	HOF	OFFN	TIN
+test_27	Celebrating the achievements of a friend who worked hard to reach their goals. Success is sweeter when shared with others. 🎉🏆	NOT	NONE	NONE
+test_28	Concerned about the rising cost of living. It's important for governments to address economic challenges and support citizens. 💸📉	NOT	NONE	NONE
+test_29	Eagerly awaiting the release of a new technology gadget that promises to simplify daily tasks. Exciting times ahead in the tech world! 📱🌐	NOT	NONE	NONE
+test_30	Wishing everyone a peaceful and joyful holiday season filled with love, laughter, and cherished moments with loved ones. 🎄❤️	NOT	NONE	NONE
+test_31	Received a hateful message online today. It's disheartening to witness such negativity on social media. 😢🚫	HOF	HATE	TIN
+test_32	Disgusted by the discriminatory comments made by a public figure. It's essential to speak out against hate and promote unity. 😡🤝	HOF	HATE	TIN
+test_33	Received a series of offensive messages on social media. Cyberbullying has no place in our digital communities. 😠📱	HOF	OFFN	TIN
+test_34	Attended an event where hate speech was condemned. It's crucial to stand against bigotry and create a safe environment for all. 🤝🚫	HOF	HATE	TIN
+test_35	Saddened by the racist remarks circulating online. We must actively combat racism and foster inclusivity. 😢🌐	HOF	HATE	TIN
+test_36	Witnessed a heated argument filled with offensive language. Constructive dialogue is necessary for a respectful society. 🔥💬	HOF	OFFN	TIN
+test_37	Received threats because of my beliefs. It's alarming how intolerance can escalate into online harassment. 😨🚷	HOF	HATE	TIN
+test_38	Expressing disdain for the discriminatory policies being advocated by certain individuals. Equality should be our shared goal. 😤🤝	HOF	HATE	TIN
+test_39	Disheartened by the hate-filled graffiti discovered in the neighborhood. Let's work together to eradicate such prejudice. 💔🏡	HOF	HATE	TIN
+test_40	Shared a post promoting love and acceptance, only to receive hateful comments. It's a reminder of the work needed for a kinder online space. 😔❤️	HOF	HATE	TIN
